@@ -9,10 +9,6 @@ Welcome to the **moshclouds** GitHub organization! 🚀 This repository is desig
 
 ## Purpose 🎯
 
-The main purpose of this organization is to:
-
-## Purpose 🎯
-
 The primary goal of this organization is to:
 
 - Provide **beginner-friendly** resources and projects to help learners dive into cloud technologies.
@@ -130,4 +126,4 @@ Stay tuned for more repositories as we continue building beginner-friendly proje
 ---
 
 **Happy Learning! 🎓**  
-Brought to you by [moshdev2213](https://github.com/moshdev2213)
+##Brought to you by [moshdev2213](https://github.com/moshdev2213)
